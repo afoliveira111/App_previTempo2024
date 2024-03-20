@@ -6,7 +6,7 @@
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
 
-<img src="/result/IMG_1.png" width="260">&emsp;
+<img src="/results/IMG_1.png" width="260">&emsp;
 
 
 ## Tecnologias
