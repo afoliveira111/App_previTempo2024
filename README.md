@@ -1,7 +1,5 @@
 # Previsão de Tempo utilizando Compose.
 
-.
-
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
@@ -11,18 +9,9 @@
 
 ## Tecnologias
 * Kotlin
-* Activity para host de telas
-* ViewGroup
-    * RelativeLayout
-    * LinearLayout
-- Components de UI
-    - TextView
-    - EditText
-    - Button
-- SnackBar para display de mensagens
-- Intent Explicita para abrir a segunda Activity
-- FindViewById para recuperar components de UI
-- String resource para concatenação de textos
+* Compose
+
+
 
 
 ### TODO
