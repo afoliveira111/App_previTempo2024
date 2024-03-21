@@ -2,8 +2,6 @@
 
 
 ## :camera_flash: Screenshots
-<!-- You can add more screenshots here if you like -->
-
 <img src="/results/IMG_1.png" width="260">&emsp;
 
 ## Requisitos
@@ -36,9 +34,10 @@ Antonio Felipe Oliveira (follow me on www.linkedin.com/in/id-antonio-felipe)
 
 
 -------------------------
-* The MIT License (MIT)
 
-Copyright (c) 2023 Antonio Felipe Oliveira
+The MIT License (MIT)
+
+Copyright (c) 2024 Antonio Felipe Oliveira
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
