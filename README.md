@@ -9,7 +9,7 @@
 ## Requisitos
 - Android Studio Arctic Fox ou superior
 - Kotlin 1.5.31 ou superior
-- Gradle 7.0.2 ou superior
+- Gradle 8.4 ou superior
 
   
 ## Tecnologias
