@@ -34,7 +34,7 @@ Este aplicativo de previsão do tempo fornece as condições climáticas atuais 
 
 
 ## Author
-Antonio Felipe Oliveira (follow me on www.linkedin.com/in/id-antonio-felipe)
+Antonio Felipe Oliveira  www.linkedin.com/in/id-antonio-felipe
 
 
 -------------------------
