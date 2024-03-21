@@ -1,4 +1,4 @@
-# Aplicativo meteorológico com Jetpack Compose
+# Aplicativo de previsão do tempo
 
 Este aplicativo de previsão do tempo fornece as condições climáticas atuais e a previsão para os próximos dias para cidades específicas. Utilizando dados de uma API de previsão do tempo, este app oferece informações como temperatura, umidade, probabilidade de chuva, além de amanhecer e pôr do sol.
 
