@@ -7,7 +7,7 @@
 <img src="/results/IMG_1.png" width="260">&emsp;
 
 ## Requisitos
-- Android Studio Arctic Fox ou superior
+- Android Studio 
 - Kotlin 1.5.31 ou superior
 - Gradle 8.4 ou superior
 
