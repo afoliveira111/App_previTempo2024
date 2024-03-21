@@ -1,27 +1,31 @@
 # Aplicativo meteorológico com Jetpack Compose
 
+Este aplicativo de previsão do tempo fornece as condições climáticas atuais e a previsão para os próximos dias para cidades específicas. Utilizando dados de uma API de previsão do tempo, este app oferece informações como temperatura, umidade, probabilidade de chuva, além de amanhecer e pôr do sol.
 
 ## :camera_flash: Screenshots
 <img src="/results/IMG_1.png" width="260">&emsp;
 
 ## Requisitos
-- Android Studio 
-- Kotlin 1.5.31 ou superior
-- Gradle 8.4 ou superior
+- **Android Studio**
+- **Kotlin 1.5.31 ou superior**
+- **Gradle 8.4 ou superior**
 
   
 ## Tecnologias
-* Kotlin
-* Jetpack Compose
-* Retrofit
-* API externa - https://api.hgbrasil.com
+- **Kotlin:** Linguagem de programação principal.
+- **Retrofit:** Utilizado para fazer requisições à API de previsão do tempo.
+- **Jetpack Compose:** Para construção da interface de usuário.
+- **ViewModel e LiveData:** Para gerenciamento do estado da UI e dados.
+- **Coroutines:** Para operações assíncronas.
+- **API externa** - https://api.hgbrasil.com
 
 
 
 ## Como executar o projeto
-1. Abra o projeto no Android Studio.
-2. Certifique-se de que você tenha um dispositivo ou emulador Android com API 31 ou superior configurado.
-3. Execute o aplicativo no dispositivo ou emulador selecionado.
+1. Clone este repositório para sua máquina local.
+2. Abra o projeto no Android Studio.
+3. Configure um emulador Android ou conecte um dispositivo via ADB.
+4. Execute o aplicativo através do Android Studio.
 
 
 ### TODO
