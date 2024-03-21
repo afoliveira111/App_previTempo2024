@@ -34,7 +34,7 @@
 ## Author
 Antonio Felipe Oliveira (follow me on www.linkedin.com/in/id-antonio-felipe)
 
-The MIT License (MIT)
+# The MIT License (MIT)
 
 Copyright (c) 2023 Antonio Felipe Oliveira
 
