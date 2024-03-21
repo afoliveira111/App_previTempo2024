@@ -29,6 +29,7 @@
 
 ### TODO
 - Melhorar estilização do app (Cores e Fundo)
+- Aumentar lista de cidades
 
 
 ## Author
