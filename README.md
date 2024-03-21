@@ -14,7 +14,11 @@
   
 ## Tecnologias
 * Kotlin
-* Compose
+* Jetpack Compose
+* Retrofit
+* API externa - https://api.hgbrasil.com
+
+
 
 
 ## Como executar o projeto
@@ -24,7 +28,8 @@
 
 
 ### TODO
-- Melhorar estilização do app
+- Melhorar estilização do app (Cores e Fundo)
+
 
 ## Author
 Antonio Felipe Oliveira (follow me on www.linkedin.com/in/id-antonio-felipe)
